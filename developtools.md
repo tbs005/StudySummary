@@ -9,3 +9,12 @@
 
 ### IDEA
   注册码获取网站 http://idea.lanyus.com/
+
+``` java
+//代码示例
+public class Test{
+  public void test（）｛
+
+  ｝
+}
+```
