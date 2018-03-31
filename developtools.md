@@ -1,7 +1,4 @@
-# 好书列表
-
-### IDEA
-  注册码网站 http://idea.lanyus.com/
+# 开发工具
 
 ### Eclipse
 官网：
@@ -9,3 +6,6 @@
 快捷键：
 
 使用参考：
+
+### IDEA
+  注册码获取网站 http://idea.lanyus.com/
