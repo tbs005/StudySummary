@@ -54,5 +54,6 @@
     * [25.2. Nginx](HTTP服务器/Nginx.md)
 * [26. 源码研究](源码研究/源码研究.md)
     * [26.1. Spring源码研究](源码研究/Spring源码研究.md)
-    * [26.2. Dubbo源码研究](源码研究/Spring源码研究.md)
+    * [26.2. Dubbo源码研究](源码研究/Dubbo源码研究.md)
+    * [26.3. L2JServer源码研究](源码研究/L2JServer源码研究.md)
 * [结束](结束/结束.md)
